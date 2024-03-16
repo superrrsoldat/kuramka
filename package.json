@@ -1,20 +1,23 @@
 {
-  "name": "kuramka", 
-  "version": "1.0.2", 
-  "description": "kuramka visual", 
+  "name": "kuramka",
+  "version": "1.0.2",
+  "description": "kuramka visual",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/superrrsoldat/kuramka.git" 
+    "url": "https://github.com/superrrsoldat/kuramka.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "superrrsoldat", 
-  "license": "MIT"
+  "author": "superrrsoldat",
+  "license": "MIT",
+  "dependencies": {
+    "versionend": "^1.0.1"
+  }
 }
